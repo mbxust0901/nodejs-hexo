@@ -69,4 +69,4 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:mbxust0901/nodejs-hexo.git
+  repo: https://github.com/mbxust0901/nodejs-hexo.git
